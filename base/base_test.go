@@ -4,8 +4,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/andyxning/shortme/base"
-	"github.com/andyxning/shortme/conf"
+	"github.com/manhtai/shortme/base"
+	"github.com/manhtai/shortme/conf"
 )
 
 func init() {

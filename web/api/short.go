@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/andyxning/shortme/conf"
-	"github.com/andyxning/shortme/short"
+	"github.com/manhtai/shortme/conf"
+	"github.com/manhtai/shortme/short"
 
 	"github.com/gorilla/mux"
 )

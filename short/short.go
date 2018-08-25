@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/andyxning/shortme/base"
-	"github.com/andyxning/shortme/conf"
-	"github.com/andyxning/shortme/sequence"
-	_ "github.com/andyxning/shortme/sequence/db"
 	_ "github.com/go-sql-driver/mysql"
+	"github.com/manhtai/shortme/base"
+	"github.com/manhtai/shortme/conf"
+	"github.com/manhtai/shortme/sequence"
+	_ "github.com/manhtai/shortme/sequence/db"
 )
 
 type shorter struct {

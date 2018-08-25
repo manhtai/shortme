@@ -130,12 +130,7 @@ corresponding expanded page is shown.
 #### Compile
 ----
 ```bash
-mkdir -p $GOPATH/src/github.com/andyxning
-cd $GOPATH/src/github.com/andyxning
-git clone https://github.com/andyxning/shortme.git
-
-cd shortme
-make build
+go get -u https://github.com/manhtai/shortme.git
 ```
 
 #### Database Schema
